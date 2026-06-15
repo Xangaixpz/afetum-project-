@@ -1,7 +1,32 @@
-Afetum es una plataforma SaaS desarrollada para Skurt Brasil que permite crear experiencias digitales personalizadas mediante fotografías, mensajes, música y animaciones interactivas. Como desarrollador Backend, participé en la implementación de APIs, lógica de negocio, autenticación, gestión de datos e integraciones con servicios externos.
+# Afetum
 
-Además, colaboré en la optimización del rendimiento, la seguridad y la escalabilidad de la plataforma, contribuyendo al desarrollo de una solución moderna utilizada por usuarios reales para crear y compartir páginas personalizadas.
+Afetum es una plataforma SaaS desarrollada para Skurt Brasil que permite crear experiencias digitales personalizadas mediante fotos, mensajes, música y animaciones interactivas.
 
-Tecnologías: TypeScript, Node.js, Next.js, Supabase, APIs REST y servicios cloud.
+## Mi rol
 
-Sitio web: https://afetum.com
+Participé como desarrollador Backend, trabajando en la implementación de APIs, lógica de negocio, autenticación, almacenamiento de datos e integraciones con servicios externos.
+
+## Responsabilidades
+
+- Desarrollo y mantenimiento de APIs
+- Implementación de lógica de negocio
+- Autenticación y gestión de usuarios
+- Integración con servicios externos
+- Gestión y almacenamiento de datos
+- Optimización de rendimiento y escalabilidad
+
+## Tecnologías
+
+- Node.js / Next.js
+- TypeScript
+- Supabase
+- APIs REST
+- Arquitectura cloud
+
+## Proyecto
+
+🔗 https://afetum.com
+
+## Nota
+
+Este repositorio es únicamente una presentación del proyecto para fines de portafolio. El código fuente no está incluido por motivos de confidencialidad.
